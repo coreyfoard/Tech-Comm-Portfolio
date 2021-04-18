@@ -18,7 +18,7 @@ Advanced searches offer more and finer control than quick searches, and allow yo
 2.	Click on the magnifying glass icon located at the top of the center pane.
 3.	Specify search parameters in the search window located at the top of the pane.
 
-![image](https://raw.github.ncsu.edu/cjfoard/ENG-517/master/Image%20Folder/ZS.png?token=AAAEQ66NJ6TPXAZJJTR2GT27RYES6)
+![image](https://github.com/coreyfoard/Tech-Comm-Portfolio/blob/main/ZS%20copy.png)
 
 <details open>
 <summary>Notes:</summary>
@@ -50,7 +50,7 @@ When you save an Advanced Search, it appears as a collection in your library (bu
 
 Here is an example of the end result.
 
-![image](https://raw.github.ncsu.edu/cjfoard/ENG-517/master/Image%20Folder/ss.png?token=AAAEQ665CQL5XJU3G4I4AZK7RYEVE)
+![image](https://github.com/coreyfoard/Tech-Comm-Portfolio/blob/main/ss%20copy.png)
 
 
 <details open>
