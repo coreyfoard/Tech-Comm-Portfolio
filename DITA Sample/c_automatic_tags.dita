@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_automatic_tags">
+    <title>Automatic Tags</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p id="automatic_tags">When items are saved to a Zotero library from the web, tags are sometimes automatically added to items. Automatic tags behave the same as manually added tags but are marked by a red icon in the “Tags” tab of the right-hand Zotero pane (versus the blue icon for regular tags).</p>
+        <example>
+            <title></title>
+            OPAC library catalogs provide subject headings for their records, which are saved as Zotero tags.
+        </example>
+    </conbody>
+</concept>

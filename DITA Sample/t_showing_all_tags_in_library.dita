@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_showing_all_tags_in_library">
+    <title>Showing All Tags in Library</title>
+    <shortdesc>You can see all of the tags used in a specific library by using the Tag Selector Tool.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You may want to see all of the tags used in a library when determining how to tag a new item. Tags not assigned to currently shown items are grayed out.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the multi-color button in the lower-right corner of the Tag Selection Tool</cmd>
+                <stepxmp><image href="../../../Images/tag_selector_tool.png" scale="75"></image></stepxmp>
+            </step>
+            <step>
+                <cmd>Select “Display All Tags in This Library”</cmd>
+                <stepxmp><image href="tag_selector_tool_2.png" scale="50" placement="break"></image></stepxmp>
+            </step>
+        </steps>
+    </taskbody>
+</task>

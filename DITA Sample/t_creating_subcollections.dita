@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="creating_subcollections">
+    <title>Creating Subcollections</title>
+    <shortdesc>You can create subcollections within your top-level collection.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You can store items in subcollections just as you would in a top-level collection. Adding an item to a subcollection does not duplicate the item, even if it appears in another collection.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Create a subcollection</cmd>
+                <choices>
+                    <choice>Drag an existing collection onto another collection</choice>
+                    <choice>Right-click an existing collection and select <uicontrol>New Subcollection</uicontrol></choice>
+                </choices>
+                <info>You can convert a subcollection into a top-level collection by dragging it out of the collection and dropping it into empty space in the left Zotero pane.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

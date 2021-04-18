@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_advanced_search">
+    <title>Advanced Search</title>
+    <shortdesc>Advanced searches offer more and finer control than quick searches, and allow you to make saved searches.</shortdesc>
+    <conbody>
+        <p>With advanced searches you can filter items by the content of specific fields or by other properties, like item type or the collection an item belongs to. An advanced search might be necessary when looking for one specific item in your library. The more information you have on the item you are searching for, the more specfic your results will be.</p>
+    </conbody>
+</concept>

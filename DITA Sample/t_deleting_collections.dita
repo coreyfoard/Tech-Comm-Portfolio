@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_deleting_collections">
+    <title>Deleting Collections</title>
+    <shortdesc>You may delete a collection when you no longer wish to use it. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Deleting collections is useful when you no longer have a use for a collection. Deleting a collection will also delete all of the subcollections in it, but not the items in them. Items are still accessible by clicking on My Library or the Group library name.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right-click on the collection</cmd>
+            </step>
+            <step>
+                <cmd>Select "Delete Collection"</cmd>
+                <info>To delete both the collection and its items, right-click on the collection and choose “Delete Collection and Items” instead</info>
+            </step>
+        </steps>
+        <result>The collection and all of its subcollections will have been removed from your library.</result>
+    </taskbody>
+</task>

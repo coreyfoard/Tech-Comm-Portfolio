@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_hiding_automatic_tags">
+    <title>Hiding Automatic Tags</title>
+    <shortdesc>You can hide or delete automatic tags just as you would normal tags.</shortdesc>
+    <taskbody>
+        <context>
+            <p conref="c_automatic_tags.dita#c_automatic_tags/automatic_tags"></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the multi-color button beside the <uicontrol>Tag Selector</uicontrol></cmd>
+                <stepxmp><image href="tag_selector_tool.png" placement="break" scale="50"></image></stepxmp>
+            </step>
+            <step>
+                <cmd>Select "Show Automatic"</cmd>
+            </step>
+            <step>
+                <cmd>Select “Delete Automatic Tags in This Library”</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

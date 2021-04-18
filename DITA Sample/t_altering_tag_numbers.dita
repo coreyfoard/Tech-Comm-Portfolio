@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_altering_tag_numbers">
+    <title>Altering a Colored Tag Tag-Number</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Each colored tag is assigned a number in addition to its colored tag, which corresponds to its position at the top of the tag selector. You can quickly add or remove a colored tag from selected items by typing the corresponding number key on your keyboard</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right-click the tag</cmd>
+            </step>
+            <step>
+                <cmd>Select "Assign Color"</cmd>
+            </step>
+            <step>
+                <cmd>Select a new number position</cmd>
+                <stepxmp><image href="assign_color_.png" placement="break" scale="50"></image></stepxmp>
+                <info>Up to nine tags can be assigned colors and numbers.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

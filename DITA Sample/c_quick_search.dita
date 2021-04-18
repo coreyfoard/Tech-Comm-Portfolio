@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_quick_search">
+    <title>Quick Search</title>
+    <shortdesc>Quick searches provide a fast way to find items in a library or collection.</shortdesc>
+    <conbody>
+        <p>A user can conduct a quick search in three different modes.</p>
+        <dl>
+            <dlentry>
+                <dt>“Title, Year, Creator”</dt>
+                <dd>Matches against these three fields, as well as publication titles.</dd>
+            </dlentry>
+        </dl>
+        <dl>
+            <dlentry>
+                <dt>“All Fields and Tags”</dt>
+                <dd>Matches against all fields, as well as tags and text in notes.</dd>
+            </dlentry>
+        </dl>
+        <dl>
+            <dlentry>
+                <dt>“Everything”</dt>
+                <dd>Matches against all fields, tags, text in notes, and indexed text in PDFs (this requires that PDF indexing be enabled).</dd>
+            </dlentry>
+        </dl>
+        <example><image href="quick_search_options.png" scale="60" placement="break"></image></example>
+    </conbody>
+</concept>

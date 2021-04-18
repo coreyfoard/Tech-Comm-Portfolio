@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_saving_a_search">
+    <title>Saving a Search</title>
+    <shortdesc conref="c_saved_searches.dita#c_saved_searches/ss"></shortdesc>
+    <taskbody>
+        <context>
+            <p>Saving a search can be useful for storing previous search criteria for a later date.</p>
+        </context>
+        <prereq>You have completed an Advanced Search</prereq>
+        <steps>
+            <step>
+                <cmd>Click the "Save Search" button in the Advanced Search window</cmd>
+            </step>
+            <step>
+                <cmd>Enter a name for your saved search</cmd>
+            </step>
+            <step>
+                <cmd>Click the "OK" button</cmd>
+            </step>
+        </steps>
+        <result><image href="saved_search_result.png" scale="50" placement="break" ></image></result>
+    </taskbody>
+</task>

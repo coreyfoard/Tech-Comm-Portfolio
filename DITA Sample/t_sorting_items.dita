@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_sorting_items">
+    <title>Sorting Items</title>
+    <shortdesc>Items in the center pane can be sorted by various properties, such as their title, creators, or the date they were added to your library.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You change the way you sort your library items based on your preferred library preferences. By default, properties in the center pane are arranged from left to right in the order in which they are shown in the dropdown menu, and Zotero will show columns for the Title, Creators, and Attachments properties in the center pane.</p>
+        </context>
+        <section>
+            <title>Change the way items are sorted</title>
+            <p>Click on any of the column headers at the top of the center pane to.<image href="sorting_bar.png" scale="50" placement="break"></image></p>
+        </section>
+        <section>
+            <title>Toggling ascending and descending sorts</title>
+            <p>Clicking a header multiple times toggles between ascending and descending sorts (the header will show an upward and downward arrow, respectively).</p>
+        </section>
+        <section>
+            <title>Changing library organization</title>
+            <p>You can change which properties are shown by clicking the sort icon <image href="sorticon.png" scale="100" placement="inline"></image>, found to the right of the column headers. Checking properties in the dropdown menu adds them to the center column, and unchecking removes them.</p>
+            <image href="sorting_prop.png" placement="break" scale="50"></image>
+        </section>
+        <section>
+            <title>Choosing a secondary sort</title>
+            <p>For each column, you can also choose the Secondary Sort field (which field is used to break ties when sorting) by clicking on the sort icon and selecting "Secondary Sort".</p>
+        </section>
+    </taskbody>
+</task>
+
+

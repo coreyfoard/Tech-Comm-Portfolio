@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_adding_standalone_note">
+    <title>Adding a Standalone Note</title>
+    <shortdesc>Add a standalone note to create a note that is independent of all items in the library.</shortdesc>
+    <taskbody>
+        <context>
+            <p conref="c_notes.dita#c_notes/standalone_notes"></p>
+        </context>
+        <steps>
+            <step>
+                <cmd conref="t_adding_child_note.dita#t_creating_a_child_note/new_note"></cmd>
+            </step>
+            <step>
+                <cmd>Select "New Standalone Note"</cmd>
+            </step>
+            <step>
+                <cmd conref="t_adding_child_note.dita#t_creating_a_child_note/type_text"></cmd>
+                <info conref="t_adding_child_note.dita#t_creating_a_child_note/auto_save"></info>
+            </step>
+        </steps>
+        <result conref="t_adding_child_note.dita#t_creating_a_child_note/note_result"></result>
+    </taskbody>
+</task>

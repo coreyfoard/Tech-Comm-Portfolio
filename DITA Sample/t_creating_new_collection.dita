@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="creating_new_collection">
+    <title>Creating a New Collection</title>
+    <shortdesc>You can create a new collection to help organize the items in your library such as for a project or a paper.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Collections are useful for filing items in meaningful groups. You can create new Collections however you see fit.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Create a new collection</cmd>
+                <choices>
+                    <choice>Click the <uicontrol>New Collection</uicontrol> button above the left pane in Zotero to add a new collection</choice>
+                    <choice>You can also right-click on <uicontrol>My Library</uicontrol> or the name of a Group library and choose <uicontrol>New Collection</uicontrol> to add a new collection</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Title your new collection and click <uicontrol>OK</uicontrol></cmd>
+            </step>
+        </steps>
+        <result>The new collection will appear as a folder under “My Library” or the selected Group library.</result>
+    </taskbody>
+</task>
