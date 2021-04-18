@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_colored_tags">
-    <title>Colored Tags</title>
-    <shortdesc>Colored tags make it easy to quickly scan your library for tags that have a certain tag.</shortdesc>
-    <conbody>
-        <p id="colored_tags">Colored tags appear as small colored squares next to items' titles in the center pane. Colored tags are shown at the top of the tag selector and are always visible (even if not assigned to any visible items). Each colored tag is also assigned a number, corresponding to its position at the top of the tag selector. You can quickly add or remove a colored tag from selected items.</p>
-    </conbody>
-</concept>
