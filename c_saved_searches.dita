@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_saved_searches">
+    <title>Saved Searches</title>
+    <shortdesc id="ss">You can save an Advanced Search using the "Save Search" feature.</shortdesc>
+    <conbody>
+        <p>When you save an Advanced Search, it appears as a collection in your library with a Saved Search icon<image href="saved_search_icon.png" placement="inline" scale="50"></image>.</p> 
+        <p>Saved Searches are continuously updated.</p> 
+        <p>Saved searches only store the search criteria, not the search results.</p>
+    </conbody>
+</concept>

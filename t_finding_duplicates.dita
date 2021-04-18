@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_finding_duplicates">
+    <title>Finding Duplicates in your Library</title>
+    <shortdesc conref="c_duplicate_detection.dita#c_duplicate_detection/duplicate_detection"></shortdesc>
+    <taskbody>
+        <context>
+            <p conref="c_duplicate_detection.dita#c_duplicate_detection/duplicate_p"></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate duplicate items</cmd>
+                <choices>
+                    <choice>Click on the "Duplicate Items" collection in the left pane</choice>
+                    <choice>Right-click the library in the left pane and click "Show Duplicates"</choice>
+                </choices>
+            </step>
+        </steps>
+        <result>This will show all of the duplicate items in the center pane.<image href="duplicate_detection.png" scale="100" placement="break"></image></result>
+    </taskbody>
+</task>

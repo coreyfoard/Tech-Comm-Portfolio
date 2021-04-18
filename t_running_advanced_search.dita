@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_running_advanced_search">
+    <title>Running an Advanced Search</title>
+    <shortdesc>Advanced searches offer more and finer control than quick searches, and allow you to make saved searches.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You may want to run an advanced search when looking for a specific item in your library. With advanced searches, you can specify the search parameters to return only items that meet the search criteria. Advanced searches can be saved to collections.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the magnifying glass icon located at the top of the center pane</cmd>
+            </step>
+            <step>
+                <cmd>Specify search parameters in the search window located at the top of the pane</cmd>
+                <stepxmp><image href="advanced_search.png" scale="50" placement="break"></image></stepxmp>
+                <info>In this window, you can filter items by the content of specific fields or by other properties, like item type or the collection an item belongs to. Multiple filters can be set up by clicking the plus button.</info>
+            </step>
+            <step>
+                <cmd>Click the "Search" button</cmd>
+            </step>
+        </steps>
+        <result>All of the items that match the specfic search parameters will populate in the center pane below</result>
+    </taskbody>
+</task>

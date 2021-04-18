@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_assigning_colored_tags">
+    <title>Assigning Colored Tags</title>
+    <shortdesc>Assigning a colored tag can make organizing your library and finding items easier.</shortdesc>
+    <taskbody>
+        <context>
+            <p conref="c_colored_tags.dita#c_colored_tags/colored_tags"></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right-click the tag you want to assign a color</cmd>
+            </step>
+            <step>
+                <cmd>Select "Assign Color"</cmd>
+            </step>
+            <step>
+                <cmd>Select a color from the dropdown box and click “Set Color”</cmd>
+                <stepxmp><image href="assign_color_.png" placement="break" scale="50"></image></stepxmp>
+            </step>
+        </steps>
+    </taskbody>
+</task>

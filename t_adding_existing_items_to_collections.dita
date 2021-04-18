@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="adding_existing_items_to_collection">
+    <title>Adding Existing Items to Collections</title>
+    <shortdesc>You can add existing items from your library to collections in order to help organize items into collections where they fit best.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Adding existing items to collections is useful when organizing items that you have previously collected into new collections.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select an existing item(s) from your library in the center pane</cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop the selected items from the center pane to the collection in the left pane</cmd>
+                <info>By default, the items will be added to the new collection but won't be removed from their original location.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

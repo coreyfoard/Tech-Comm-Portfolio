@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_tag_selector_tool">
+    <title>Tag Selector Tool</title>
+    <shortdesc>The Tag Selector Tool can help users locate all of the tags that have been assigned to the items in the currently selected collection that match the current search. </shortdesc>
+    <conbody>
+        <p>The Tag Selector Tool searchbox filters the results of searches by tag(s). Only items that have all of the selected tags will be shown in the center pane. As you apply filters, the list of tags in the tag selector will be updated to show only the tags assigned to currently visible items. The tag selector is located at the bottom of the left Zotero pane.</p>
+    </conbody>
+</concept>

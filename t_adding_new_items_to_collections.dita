@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="adding_new_items_collections">
+    <title>Adding New Items to Collections</title>
+    <shortdesc>You can add new items to collections to help organize your library. Find an item you would like to save, and then add it to the collections you see fit. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Adding new items to collections is useful when you are working with new items and you need to catalog them somewhere for later use.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate a new item from the web</cmd>
+            </step>
+            <step>
+                <cmd>Select the collection you want to save the item to</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <uicontrol>Zotero Save Button</uicontrol> in your browser</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

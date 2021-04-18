@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_editing_tags">
+    <title>Editing Tags</title>
+    <shortdesc>You can use the <uicontrol>Tag Selector</uicontrol> to edit and modify tags.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You may want to edit tags when deleting a tag from your library or when merging tags.</p>
+        </context>
+        <section>
+            <title>Renaming a Tag</title>
+            <p>You can rename a tag by clicking on the "Rename Tag" in the <uicontrol>Tag Selector</uicontrol> and typing the new name. By doing this, you change the tag name everywhere in your library.</p>
+        </section>
+        <section>
+            <title>Deleting a Tag</title>
+            <p>You can delete a single tag by clicking onthe minus “–” button.</p>
+            <p>If you want to delete a tag from your library entirely, right-click the tag and choose “Delete Tag”.</p>
+        </section>
+        <section>
+            <title>Merging Tags</title>
+            <p>You can merge a group of differently tagged items by replacing the current tag with the name of a different existing one. This will effectively delete the overwitten tag.</p>
+        </section>
+    </taskbody>
+</task>

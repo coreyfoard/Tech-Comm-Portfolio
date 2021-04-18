@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="renaming_collections">
+    <title>Renaming Collections</title>
+    <shortdesc>You can rename collections in order to best represent the collected items.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You may want to rename a collection as your collection grows in order to better represent the items within it. It is not suggested to rename collections too frequently.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right-click on the collection</cmd>
+            </step>
+            <step>
+                <cmd>Select "Rename Collection" and type in the new name of the collection</cmd>
+                <info>Collections are sorted alphabetically in your library. You can use punctuation marks to sort collections to the top of the list.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

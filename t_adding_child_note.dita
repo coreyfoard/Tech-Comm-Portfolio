@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_creating_a_child_note">
+    <title>Adding a Child Note</title>
+    <shortdesc>Add a child note to an existing item in the library.</shortdesc>
+    <taskbody>
+        <context>
+            <p conref="c_notes.dita#c_notes/child_notes"></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select an item in the center pane</cmd>
+            </step>
+            <step>
+                <cmd id="new_note">Click the "New Note" button <image href="note_add.png" scale="100" placement="inline"></image> on the top of the center pane</cmd>
+            </step>
+            <step>
+                <cmd>Select "Add Child Note"</cmd>
+            </step>
+            <step>
+                <cmd id="type_text">Type text into note</cmd>
+                <info id="auto_save">Text in notes will automatically save as you type.</info>
+            </step>
+        </steps>
+        <result id="note_result">A note will be created as an attachment to the item, and a note editor will appear in the right-hand pane.<image href="note_example.png" placement="break" scale="40"></image></result>
+    </taskbody>
+</task>
+

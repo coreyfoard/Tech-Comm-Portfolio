@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_adding_images_to_notes">
+    <title>Adding Images to Notes</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>You can embed images into Zotero notes by dragging them from your filesystem. Note, however, that embedded images are not officially supported and will not sync (and may potentially cause other syncing problems).</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Add image to note</cmd>
+                <choices>
+                    <choice>Drag image from filestream</choice>
+                    <choice>Add image as separate attachment file
+                        <p>***NEEDS A CONREF TO ATTACHING FILES****</p>
+                    </choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>

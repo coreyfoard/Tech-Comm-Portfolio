@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t_removing_items_from_collection">
+    <title>Removing Items from a Collection</title>
+    <shortdesc>You can remove items from a collection should you decide it no longer belongs in that collection.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Removing items from a collection gives you the ability to customize which items are in your collections. If you no longer wish for an item to be included in a collection, you can remove it without deletingthe item. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select a collection in the left Zotero pane</cmd>
+            </step>
+            <step>
+                <cmd>Select the items in the center pane that you want to remove from the collection</cmd>
+            </step>
+            <step>
+                <cmd>Remove items</cmd>
+                <choices>
+                    <choice>Press the <b>Delete</b> key to remove the items from the collection</choice>
+                    <choice>Right-click the selcted items and select "Remove Item(s) from Collection"</choice>
+                </choices>
+                <info>This only removes the items from the selected collection, not from “My Library” or any other collections.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_related_items">
+    <title>Related Items</title>
+    <shortdesc id="relation_description">A "relation" between items can be used to set up a relationship between any pair of items in a single library.</shortdesc>
+    <conbody>
+        <p id="relation_p">In addition to collections and tags, a third way to express relationships between items is by setting up “relations”. Relations can set up between any pair of items in a library (it is not possible to relate items from different libraries).</p>
+    </conbody>
+</concept>
