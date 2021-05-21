@@ -1,19 +1,12 @@
 #### Base URL for all API requests is:
 
-<!-- Could probably trim this to "Base URL:" ... also, try to use the level headings in MD so as to clearly indicate a hierarchy of information. So: Resource (l1), Endpoint (l2), Sample Request (l3), Sample Response (l3), Parameters (l2) -->
-
 ```javascript
 https://api.zotero.org
 ```
 
-<!-- Search as a resource type? -->
-
 ## Getting all item types
 Retrieves all requested item types. An item type will distinguish whether the item is a "book," "note," "report," or any of the other broad categories used to help cite items.
 
-<!-- ItemTypes refer to ... -->
-
-<!-- summary table of the end points for the item search resource? -->
 ```javascript
 GET /itemTypes
 ```
@@ -22,12 +15,10 @@ GET /itemTypes
 
 | Parameter   | Value       | Description |
 | ----------- | ----------- | ----------- |
-| format      |“atom”, “bib”, “keys”, “versions”,       |Will retrun request in the assigned format. |
+| format      |“atom”, “bib”, “keys”, “versions”,       |Will return request in the assigned format. |
 |key         | string      |If a valid API key is provided, the request will be processed with the identity of the key's owner and the authority granted to the key.
 | newer       | integer     |Return only objects modified after the specified library verson.          |
 | locale| query| Will request names in other languages.|
-
-<!-- Descriptions on parameters are usually noun phrases. Careful of spelling errors, Atom will not catch these unless you install a spellcheck package. Also, include a column for data type and required/optional? -->
 
 #### <summary>Sample Request</summary>
 
@@ -69,10 +60,6 @@ curl --location --request GET 'https://api.zotero.org/itemTypes'
 ## Get updated group metadata
 Group metadata includes group titles and descriptions as well as member/role/permissions information. It is separate from group library data.
 
-<!-- I think that this statement is intended as an endpoint description. If so, you will want it to  be expressed as verb phrase, which will emphasize the user action that is supported. -->
-
-<!-- Note about what a group is?  Also need to talk about {group ID} as a path parameter -->
-
 ```javascript
 GET /users/<userID>/groups?format=versions
 ```
@@ -93,8 +80,6 @@ format      |“atom”, “bib”, “keys”, “versions”,       |Will retr
 ```javascript
 curl --location --request GET 'https://api.zotero.org//users/<userid>/groups?format=versions'
 ```
-<!-- In parameter table above: again check on the spelling. Also include a column for data type and required/optional. Try to make the parameter descriptions into noun phrases and keep the responses out for further elaboration in the Sample Response -->
-
 #### Sample Response
 
 ```javascript
@@ -104,6 +89,3 @@ curl --location --request GET 'https://api.zotero.org//users/<userid>/groups?for
   "<groupID>": "<version>"
 }
 ```
-<!-- Given that different parameters will generate different success and failure messages you probably need to have a table summarizing the possible responses and the parameters associated with those responses -->
-
-<!-- Nice work on making sense of this fairly complicated set of endpoints and parameters.  I thought that your document had a nice layout in the way that you set off endpoints and code samples to be visually distinct and grouped together, along with parameters. Check on the traditional ways of describing endpoints with verb phrases, parameters with noun phrases, and for describing a general resource statement. All of the minor details are important for meeting developer expectations and enabling them to make a more rapid decision about whether an endpoint is appropriate for them. See my comments about organization vis a vis the use of headings in MD. Grade: 134/150 -->
